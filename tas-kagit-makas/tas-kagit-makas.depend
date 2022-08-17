@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641131826 source:c:\users\kolsu\desktop\algoritma projelerim\c calismalarim\tas-kagit-makas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
